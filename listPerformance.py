@@ -1,4 +1,8 @@
 # coding=utf-8
+# Python第一次作业
+# Author: Hongzhuo CHEN
+# Modified on Oct 21, 2020
+# 内容：比较列表不同添加、删除元素方法的时间
 import time
 
 times = 1000000  # 重复操作的次数
